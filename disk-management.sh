@@ -1,0 +1,1 @@
+blkdiscard /dev/sda # Force deletion of a disk
